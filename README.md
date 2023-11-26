@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigobustamante&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigobustamante" /> </p>
 
-- 🔭 I’m currently working on LATAM Airlines [LATAM Airlines](https://www.latamairlines.com/)
+- 🔭 I’m currently working on [LATAM Airlines](https://www.latamairlines.com/)
 
 - 👯 I’m looking to collaborate on non profit organizations [JSConfCL](https://github.com/JSConfCL/)
 
