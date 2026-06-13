@@ -9,7 +9,6 @@ I'm a computer engineer by profession graduated in 2017. During my professional 
 
 * 🌍  I'm based in Santiago, Chile
 * ✉️  You can contact me at [rbustamantejelvez@gmail.com](mailto:rbustamantejelvez@gmail.com)
-* 🚀  I'm currently working on [LATAM Airlines](http://latamairlines.com/)
 * 🧠  I'm learning how to lead development teams
 * 🤝  I'm open to collaborating on non profit organizations
 * ⚡  I like to play tennis, play video games and watch series.
