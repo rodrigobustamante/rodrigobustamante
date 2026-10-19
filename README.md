@@ -54,6 +54,15 @@ Computer engineer with **9 years** building web products for retail, payments, h
       <br/><br/><sub>Next.js · Expo · TypeScript · Vercel AI SDK · Prisma</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rodrigobustamante/a11y-web-validator"><img src="assets/a11y.png" alt="A11yScan home page with a URL input and WCAG compliance features" /></a>
+      <h4>♿ <a href="https://github.com/rodrigobustamante/a11y-web-validator">A11yScan</a></h4>
+      Audits any URL against WCAG 2.1/2.2 with Playwright and axe-core, scores it from 0 to 100 and exports PDF reports. Hardened against SSRF with an egress proxy.
+      <br/><br/><sub>Next.js · Express · Playwright · axe-core · TypeScript</sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 ### Writing
