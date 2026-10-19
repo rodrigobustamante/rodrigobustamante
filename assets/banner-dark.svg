@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-labelledby="title desc">
+  <title id="title">Rodrigo Bustamante</title>
+  <desc id="desc">Design Engineer and Senior Frontend Engineer. Design systems, frontend architecture and web performance. A metro-style map connects tokens, components, patterns and products.</desc>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    @media (prefers-reduced-motion: reduce) { .trains { display: none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="278" rx="16" fill="#0c0a09" stroke="#292524" stroke-width="2"/>
+  <text x="64" y="118" class="sans" font-size="46" font-weight="700" fill="#fafaf9" letter-spacing="-1">Rodrigo Bustamante</text>
+  <text x="64" y="158" class="sans" font-size="21" fill="#a8a29e">Design Engineer · Senior Frontend Engineer</text>
+  <text x="64" y="214" class="mono" font-size="14" fill="#22d3ee">design systems · frontend architecture · web perf</text>
+  <g fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path id="l-a" d="M600,210 H800 L880,130 H1160" stroke="#22d3ee"/>
+    <path id="l-b" d="M840,30 V170 L920,250 H1160" stroke="#a78bfa"/>
+    <path id="l-c" d="M620,90 H960 L1000,130 L1080,210 H1160" stroke="#fb923c"/>
+  </g>
+  <g class="trains">
+    <circle r="5" fill="#fafaf9"><animateMotion dur="7s" begin="0s" repeatCount="indefinite"><mpath href="#l-a"/></animateMotion></circle>
+    <circle r="5" fill="#fafaf9"><animateMotion dur="7s" begin="-3.5s" repeatCount="indefinite"><mpath href="#l-a"/></animateMotion></circle>
+    <circle r="5" fill="#fafaf9"><animateMotion dur="6s" begin="-1s" repeatCount="indefinite"><mpath href="#l-b"/></animateMotion></circle>
+    <circle r="5" fill="#fafaf9"><animateMotion dur="8s" begin="-2s" repeatCount="indefinite"><mpath href="#l-c"/></animateMotion></circle>
+    <circle r="5" fill="#fafaf9"><animateMotion dur="8s" begin="-6s" repeatCount="indefinite"><mpath href="#l-c"/></animateMotion></circle>
+  </g>
+  <circle cx="700" cy="210" r="6" fill="#0c0a09" stroke="#22d3ee" stroke-width="3"/>
+  <circle cx="720" cy="90" r="6" fill="#0c0a09" stroke="#fb923c" stroke-width="3"/>
+  <circle cx="840" cy="50" r="6" fill="#0c0a09" stroke="#a78bfa" stroke-width="3"/>
+  <circle cx="1060" cy="250" r="6" fill="#0c0a09" stroke="#a78bfa" stroke-width="3"/>
+  <circle cx="1120" cy="130" r="6" fill="#0c0a09" stroke="#22d3ee" stroke-width="3"/>
+  <circle cx="840" cy="170" r="9" fill="#0c0a09" stroke="#fafaf9" stroke-width="3"/>
+  <circle cx="1000" cy="130" r="9" fill="#0c0a09" stroke="#fafaf9" stroke-width="3"/>
+  <g class="mono" font-size="12" fill="#78716c">
+    <text x="700" y="238" text-anchor="middle">tokens</text>
+    <text x="720" y="72" text-anchor="middle">performance</text>
+    <text x="856" y="55" text-anchor="start">a11y</text>
+    <text x="1060" y="234" text-anchor="middle">docs</text>
+    <text x="1120" y="112" text-anchor="middle">products</text>
+    <text x="824" y="175" text-anchor="end">components</text>
+    <text x="1014" y="116" text-anchor="start">patterns</text>
+  </g>
+</svg>

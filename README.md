@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Rodrigo Bustamante 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
+  <img src="assets/banner-light.svg" alt="Rodrigo Bustamante — Design Engineer · Senior Frontend Engineer" width="100%" />
+</picture>
 
 <p align="center">
-  <b>Design Engineer · Senior Frontend Engineer</b><br/>
   I design and build frontend platforms and design systems, from airlines to copper mining.
 </p>
 
@@ -35,15 +37,31 @@ Computer engineer with **9 years** building web products for retail, payments, h
 
 ### Featured projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| 🏃 **[PACE](https://github.com/rodrigobustamante/pace)** · [demo](https://pace.rodrigobustamante.cl) | Running analytics on top of Strava: fitness, fatigue and form, plus an AI coach powered by Gemini, GPT-4o or Claude. | Next.js, Expo, TypeScript, Vercel AI SDK |
-| 🚇 **[Intervalo](https://github.com/rodrigobustamante/intervalo)** · [demo](https://intervalo.rodrigobustamante.cl) | A sonic visualization of the Santiago and Madrid metro networks built from GTFS open data. | Next.js, MapLibre GL JS, Web Audio API |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://intervalo.rodrigobustamante.cl"><img src="assets/intervalo.gif" alt="Intervalo: trains moving across the Madrid metro map" /></a>
+      <h4>🚇 <a href="https://github.com/rodrigobustamante/intervalo">Intervalo</a> · <a href="https://intervalo.rodrigobustamante.cl">live demo</a></h4>
+      The metro as an instrument: every train in Santiago and Madrid plays a note as it reaches a station, interpolated from GTFS open data.
+      <br/><br/><sub>Next.js · MapLibre GL JS · Web Audio API · TypeScript</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://pace.rodrigobustamante.cl"><img src="assets/pace.png" alt="PACE landing page" /></a>
+      <h4>🏃 <a href="https://github.com/rodrigobustamante/pace">PACE</a> · <a href="https://pace.rodrigobustamante.cl">live demo</a></h4>
+      Running analytics on top of Strava: fitness, fatigue and form, race predictions and an AI coach powered by Gemini, GPT-4o or Claude. Web + iOS.
+      <br/><br/><sub>Next.js · Expo · TypeScript · Vercel AI SDK · Prisma</sub>
+    </td>
+  </tr>
+</table>
 
 ### Writing
 
-- [Speculative Rendering: Enhancing Web Performance](https://rodrigobustamante.cl/blog/en/speculative-rendering-web-performance-guide)
-- [Core Web Vitals: Complete Guide for Beginners](https://rodrigobustamante.cl/blog/en/core-web-vitals-complete-guide-for-beginners)
+<!-- BLOG-POST-LIST:START -->
+- [Speculative Rendering - Enhancing Web Performance](https://rodrigobustamante.cl/blog/en/speculative-rendering-web-performance-guide)
+- [Core Web Vitals - Complete Guide for Beginners](https://rodrigobustamante.cl/blog/en/core-web-vitals-complete-guide-for-beginners)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More on my blog](https://rodrigobustamante.cl/blog/en)
 
 ### Tech stack
 
