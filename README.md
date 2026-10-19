@@ -74,7 +74,3 @@ Computer engineer with **9 years** building web products for retail, payments, h
 </p>
 
 Also: React Native, Storybook, Playwright, micro-frontends, CI/CD.
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rodrigobustamante&label=Profile%20views&color=0891b2&style=flat" alt="Profile views" />
-</p>
