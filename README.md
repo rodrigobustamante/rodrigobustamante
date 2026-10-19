@@ -1,7 +1,9 @@
+<a href="https://rodrigobustamante.cl">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
   <img src="assets/banner-light.svg" alt="Rodrigo Bustamante — Design Engineer · Senior Frontend Engineer" width="100%" />
 </picture>
+</a>
 
 <p align="center">
   I design and build frontend platforms and design systems, from airlines to copper mining.
