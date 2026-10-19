@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://rodrigobustamante.cl"><img src="https://img.shields.io/badge/Website-rodrigobustamante.cl-0891b2?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://rodrigobustamante.cl/es"><img src="https://img.shields.io/badge/Web-Español-0891b2?style=flat&logo=googlechrome&logoColor=white" alt="Website in Spanish" /></a>
   <a href="https://rodrigobustamante.cl/uploads/cv-rodrigo-bustamante-general.pdf"><img src="https://img.shields.io/badge/CV-Download-0891b2?style=flat&logo=readdotcv&logoColor=white" alt="Download CV" /></a>
   <a href="https://www.linkedin.com/in/rod-bustamante"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rbustamantejelvez@gmail.com"><img src="https://img.shields.io/badge/Email-0891b2?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
