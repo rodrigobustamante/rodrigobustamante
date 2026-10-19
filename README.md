@@ -21,7 +21,7 @@
 
 Computer engineer (2017) with 8+ years building web products used by large audiences, working across React, Node.js, Cloudflare and Google Cloud Platform. These days my focus is on **design systems** and **frontend architecture**: reusable components, consistent UI, and tooling that helps teams ship faster.
 
-- 🌍 Based in Santiago, Chile
+- 🌍 Based in Madrid, Spain
 - 🧩 Focused on design systems, component libraries and frontend architecture
 - 🤝 Open to collaborating with non-profit organizations
 - ⚡ Off the keyboard: tennis, video games and series
@@ -29,7 +29,7 @@ Computer engineer (2017) with 8+ years building web products used by large audie
 ### Tech stack
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,gatsby,materialui,figma&perline=8" alt="Frontend" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,gatsby,materialui,figma&perline=9" alt="Frontend" /></a>
   <br/>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,firebase,gcp,cloudflare,git&perline=9" alt="Backend and tooling" /></a>
 </p>
