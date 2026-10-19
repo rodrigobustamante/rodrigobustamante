@@ -1,13 +1,20 @@
 <h1 align="center">Hi, I'm Rodrigo Bustamante 👋</h1>
 
 <p align="center">
-  <b>Senior Frontend Engineer · Design Systems</b><br/>
-  Building scalable, accessible interfaces for high-traffic products.
+  <b>Design Engineer · Senior Frontend Engineer</b><br/>
+  I design and build frontend platforms and design systems, from airlines to copper mining.
 </p>
 
 <p align="center">
+  🟢 <b>Open to Senior Frontend Engineer roles</b> · Madrid, Spain (remote-friendly)
+</p>
+
+<p align="center">
+  <a href="https://rodrigobustamante.cl"><img src="https://img.shields.io/badge/Website-rodrigobustamante.cl-0891b2?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://rodrigobustamante.cl/uploads/cv-rodrigo-bustamante-general.pdf"><img src="https://img.shields.io/badge/CV-Download-0891b2?style=flat&logo=readdotcv&logoColor=white" alt="Download CV" /></a>
   <a href="https://www.linkedin.com/in/rod-bustamante"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rbustamantejelvez@gmail.com"><img src="https://img.shields.io/badge/Email-0891b2?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br/>
   <a href="https://dev.to/rodrigobustamante"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="dev.to" /></a>
   <a href="https://x.com/uhnxz"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.youtube.com/@rorro989"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
@@ -19,20 +26,37 @@
 
 ### About me
 
-Computer engineer (2017) with 8+ years building web products used by large audiences, working across React, Node.js, Cloudflare and Google Cloud Platform. These days my focus is on **design systems** and **frontend architecture**: reusable components, consistent UI, and tooling that helps teams ship faster.
+Computer engineer with **9 years** building web products for retail, payments, healthcare and aviation. I spent the last years at **LATAM Airlines**, where I worked on the airline's home page and later on **Hangar**, its design system: boilerplate and components used by **50+ teams** and reaching **millions of passengers**.
 
-- 🌍 Based in Madrid, Spain
-- 🧩 Focused on design systems, component libraries and frontend architecture
-- 🤝 Open to collaborating with non-profit organizations
-- ⚡ Off the keyboard: tennis, video games and series
+- 🏗️ Software Architect at **Vantaz Analytics**, building a supplier management platform for a copper miner (Next.js, FastAPI, Azure)
+- 🧩 Focused on design systems, micro-frontends, accessibility and web performance
+- 🤖 Building MCPs and Skills so teams and AI agents can work with design systems
+- 🌍 Based in Madrid, Spain · Spanish (native) · English (B2)
+- ⚡ Off the keyboard: running, tennis, video games and series
+
+### Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| 🏃 **[PACE](https://github.com/rodrigobustamante/pace)** · [demo](https://pace.rodrigobustamante.cl) | Running analytics on top of Strava: fitness, fatigue and form, plus an AI coach powered by Gemini, GPT-4o or Claude. | Next.js, Expo, TypeScript, Vercel AI SDK |
+| 🚇 **[Intervalo](https://github.com/rodrigobustamante/intervalo)** · [demo](https://intervalo.rodrigobustamante.cl) | A sonic visualization of the Santiago and Madrid metro networks built from GTFS open data. | Next.js, MapLibre GL JS, Web Audio API |
+
+### Writing
+
+- [Speculative Rendering: Enhancing Web Performance](https://rodrigobustamante.cl/blog/en/speculative-rendering-web-performance-guide)
+- [Core Web Vitals: Complete Guide for Beginners](https://rodrigobustamante.cl/blog/en/core-web-vitals-complete-guide-for-beginners)
 
 ### Tech stack
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,gatsby,materialui,figma&perline=9" alt="Frontend" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,materialui,figma,d3&perline=10" alt="Frontend" /></a>
   <br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mysql,firebase,gcp,cloudflare,git&perline=9" alt="Backend and tooling" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql,postgres,redis,jest,cypress&perline=10" alt="Backend and testing" /></a>
+  <br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp,azure,cloudflare,docker,terraform,gitlab,git&perline=10" alt="Cloud and tooling" /></a>
 </p>
+
+Also: React Native, Storybook, Playwright, micro-frontends, CI/CD.
 
 ### GitHub activity
 
