@@ -18,8 +18,6 @@
   <br/>
   <a href="https://dev.to/rodrigobustamante"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="dev.to" /></a>
   <a href="https://x.com/uhnxz"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.youtube.com/@rorro989"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.twitch.tv/uhnxz"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch" /></a>
   <a href="https://www.instagram.com/rbustamantej"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
