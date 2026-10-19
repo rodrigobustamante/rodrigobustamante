@@ -75,19 +75,6 @@ Computer engineer with **9 years** building web products for retail, payments, h
 
 Also: React Native, Storybook, Playwright, micro-frontends, CI/CD.
 
-### GitHub activity
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rodrigobustamante&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=22d3ee&icon_color=22d3ee&text_color=e7e5e4" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=rodrigobustamante&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0891b2&icon_color=0891b2&text_color=1c1917" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rodrigobustamante&hide_border=true&background=00000000&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&currStreakNum=e7e5e4&sideNums=e7e5e4&sideLabels=e7e5e4&dates=a8a29e&stroke=44403c" />
-    <img height="165" src="https://streak-stats.demolab.com/?user=rodrigobustamante&hide_border=true&background=00000000&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&currStreakNum=1c1917&sideNums=1c1917&sideLabels=1c1917&dates=57534e&stroke=d6d3d1" alt="GitHub streak" />
-  </picture>
-</p>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=rodrigobustamante&label=Profile%20views&color=0891b2&style=flat" alt="Profile views" />
 </p>
