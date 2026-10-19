@@ -4,12 +4,34 @@
   <style>
     .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
     .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
-    @media (prefers-reduced-motion: reduce) { .trains { display: none; } }
+    .static { display: none; }
+    @media (prefers-reduced-motion: reduce) { .trains, .rotator { display: none; } .static { display: inline; } }
   </style>
   <rect x="1" y="1" width="1198" height="278" rx="16" fill="#fafaf9" stroke="#e7e5e4" stroke-width="2"/>
   <text x="64" y="118" class="sans" font-size="46" font-weight="700" fill="#1c1917" letter-spacing="-1">Rodrigo Bustamante</text>
   <text x="64" y="158" class="sans" font-size="21" fill="#57534e">Design Engineer · Senior Frontend Engineer</text>
-  <text x="64" y="214" class="mono" font-size="14" fill="#0891b2">design systems · frontend architecture · web perf</text>
+  <defs>
+    <clipPath id="clip-0"><rect x="88" y="198" height="22" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;0;0.06;0.16;0.19;1" values="0;0;137;137;0;0"/></rect></clipPath>
+    <clipPath id="clip-1"><rect x="88" y="198" height="22" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;0.2;0.26;0.36;0.39;1" values="0;0;204;204;0;0"/></rect></clipPath>
+    <clipPath id="clip-2"><rect x="88" y="198" height="22" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;0.4;0.46;0.56;0.59;1" values="0;0;146;146;0;0"/></rect></clipPath>
+    <clipPath id="clip-3"><rect x="88" y="198" height="22" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;0.6;0.66;0.76;0.79;1" values="0;0;127;127;0;0"/></rect></clipPath>
+    <clipPath id="clip-4"><rect x="88" y="198" height="22" width="0"><animate attributeName="width" dur="15s" repeatCount="indefinite" keyTimes="0;0.8;0.86;0.96;0.99;1" values="0;0;194;194;0;0"/></rect></clipPath>
+  </defs>
+  <g class="mono" font-size="16" fill="#0891b2">
+    <text x="64" y="214" fill="#78716c">&gt;</text>
+    <g class="rotator">
+    <text x="88" y="214" clip-path="url(#clip-0)">design systems</text>
+    <text x="88" y="214" clip-path="url(#clip-1)">frontend architecture</text>
+    <text x="88" y="214" clip-path="url(#clip-2)">web performance</text>
+    <text x="88" y="214" clip-path="url(#clip-3)">accessibility</text>
+    <text x="88" y="214" clip-path="url(#clip-4)">AI tooling for teams</text>
+      <rect y="200" width="9" height="18" fill="#0891b2" x="88">
+        <animate attributeName="x" dur="15s" repeatCount="indefinite" keyTimes="0;0;0.06;0.16;0.19;0.2;0.26;0.36;0.39;0.4;0.46;0.56;0.59;0.6;0.66;0.76;0.79;0.8;0.86;0.96;0.99;1" values="88;88;225;225;88;88;292;292;88;88;234;234;88;88;215;215;88;88;282;282;88;88"/>
+        <animate attributeName="opacity" dur="1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1" calcMode="discrete"/>
+      </rect>
+    </g>
+    <text class="static" x="88" y="214">design systems · frontend architecture</text>
+  </g>
   <g fill="none" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
     <path id="l-a" d="M600,210 H800 L880,130 H1160" stroke="#0891b2"/>
     <path id="l-b" d="M840,30 V170 L920,250 H1160" stroke="#7c3aed"/>
