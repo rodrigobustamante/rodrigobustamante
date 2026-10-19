@@ -27,7 +27,7 @@
 
 ### About me
 
-Computer engineer with **9 years** building web products for retail, payments, healthcare and aviation. I spent the last years at **LATAM Airlines**, where I worked on the airline's home page and later on **Hangar**, its design system: boilerplate and components used by **50+ teams** and reaching **millions of passengers**.
+Computer engineer with **9 years** building web products for retail, payments, healthcare and aviation. I spent the last years at **LATAM Airlines**, where I worked on the airline's home page and later on **[Hangar](https://rodrigobustamante.cl/work/hangar-design-system)**, its design system: boilerplate and components used by **50+ teams** and reaching **millions of passengers**.
 
 - 🏗️ Software Architect at **Vantaz Analytics**, building a supplier management platform for a copper miner (Next.js, FastAPI, Azure)
 - 🧩 Focused on design systems, micro-frontends, accessibility and web performance
@@ -74,3 +74,10 @@ Computer engineer with **9 years** building web products for retail, payments, h
 </p>
 
 Also: React Native, Storybook, Playwright, micro-frontends, CI/CD.
+
+---
+
+<p align="center">
+  <b>Building a design system or a frontend platform?</b> Let's talk →
+  <a href="mailto:rbustamantejelvez@gmail.com">email</a> · <a href="https://www.linkedin.com/in/rod-bustamante">LinkedIn</a>
+</p>
