@@ -67,12 +67,19 @@ Computer engineer with **9 years** building web products for retail, payments, h
 
 ### Writing
 
+**🇬🇧 English** · [blog](https://rodrigobustamante.cl/blog/en)
+
 <!-- BLOG-POST-LIST:START -->
 - [Speculative Rendering - Enhancing Web Performance](https://rodrigobustamante.cl/blog/en/speculative-rendering-web-performance-guide)
 - [Core Web Vitals - Complete Guide for Beginners](https://rodrigobustamante.cl/blog/en/core-web-vitals-complete-guide-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More on my blog](https://rodrigobustamante.cl/blog/en)
+**🇪🇸 Español** · [blog](https://rodrigobustamante.cl/blog/es)
+
+<!-- BLOG-POST-LIST-ES:START -->
+- [Renderizado Especulativo - Mejorando el Rendimiento Web](https://rodrigobustamante.cl/blog/es/rendimiento-web-rendimiento-especulativo-guia)
+- [Core Web Vitals - Guía Completa para Principiantes](https://rodrigobustamante.cl/blog/es/core-web-vitals-guia-completa-para-principiantes)
+<!-- BLOG-POST-LIST-ES:END -->
 
 ### Tech stack
 

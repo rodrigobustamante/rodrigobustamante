@@ -18,3 +18,9 @@ jobs:
           feed_list: "https://rodrigobustamante.cl/blog/en/rss.xml"
           max_post_count: 5
           commit_message: "docs: update latest blog posts"
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://rodrigobustamante.cl/blog/es/rss.xml"
+          max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST-ES"
+          commit_message: "docs: update latest Spanish blog posts"
